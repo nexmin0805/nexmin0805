@@ -70,6 +70,6 @@
 
 <div align="center">
     
-![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexmin0805&show_icons=true&theme=스타일)
+![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexmin0805&show_icons=true&theme=tokyonight)
     
 </div>
