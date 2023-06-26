@@ -54,11 +54,6 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </p>
-<p align="center" display="inline-block">
-    💡CI/CD <br>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-</p>
-
 <p align="center">
     💡Used at least once
 </p>
@@ -75,7 +70,6 @@
 
 <div align="center">
     
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=pgmjun&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/)
+![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexmin0805&show_icons=true&theme=스타일)
     
 </div>
