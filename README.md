@@ -6,10 +6,9 @@
     <Strong>☁️Portfolio List☁️</Strong><br><br>
     <a href="https://touslesjourscoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <a href="https://minseos.notion.site/617821f93611426d8a2880480e029126?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>chltmdwns96@gmail.com<br>
+<Strong>📧Email📧</Strong><br>nexmin0805@gmail.com<br>
 
 </p>
 
@@ -17,7 +16,7 @@
 
 <p align="center">
 반갑습니다👐<br>
-제 이름은 최승준이고 백엔드를 공부하고 있어요!<br>
+제 이름은 한민서이고 백엔드를 공부하고 있어요!<br>
 항상 배우려는 자세로 학습에 임하고 있습니다.<br>
 배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자입니다.
 </p>
@@ -44,20 +43,17 @@
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡DevOps / Infra <br>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡Cowork Tools <br>
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡CI/CD <br>
