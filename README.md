@@ -63,6 +63,6 @@
 
 <div align="center">
     
-![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexmin0805&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexmin0805&layout=compact&theme=merko)
+![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexmin0805&show_icons=true&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexmin0805&layout=compact&theme=gruvbox_light)
 </div>
