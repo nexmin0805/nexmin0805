@@ -27,7 +27,7 @@
 
 <p align="center" display="inline-block">
     💡Language <br>
-    <img src="https://img.shields.io/badge/JAVA-8B4513?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
 </p>
 <p align="center" display="inline-block">
     💡Backend <br>
